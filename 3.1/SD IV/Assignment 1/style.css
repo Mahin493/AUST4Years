@@ -1,0 +1,41 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+}
+.title{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+
+
+}
+
+.container-flexbox1 div{
+    border: 1px solid #ccc;
+    width: auto;
+   
+}
+
+.container-flexbox1{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+   
+    
+    
+}
+
+
+.container-flexbox2{
+    display: flex;
+    justify-content:space-around ;
+    margin-bottom: 15px;
+   
+}
+
+.container-flexbox2 div{
+    border: 1px solid #ccc;
+    width: auto;
+}
