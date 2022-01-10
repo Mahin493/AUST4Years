@@ -1,0 +1,266 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.nav-style{
+    color: black;
+    
+}
+
+.mynav:hover{
+    background: rgb(221, 110, 70);
+    
+
+    color: rgb(53, 42, 42);
+}
+.carousel-caption{
+    top: 33%
+}
+
+.Blacked-background{
+    background-color: rgb(12, 12, 12);
+   
+    width: auto;
+    
+}
+
+.contact-us{
+    color: #70A4CB;
+    
+}
+.contact{
+    color: white;
+    
+}
+   
+.roundicon-section{
+    background-color: rgb(242, 242, 242);
+}
+.roundicon-section .row{
+
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+
+}
+ .firsticon1{
+    background-color: #ffffff;
+    margin-top: 36%;
+    margin-bottom: 36%;
+    height: 220px;
+    box-shadow: 5px 10px 10px #969696;
+   
+}
+ .secondicon2{
+    background-color: #ffffff;
+    height: 220px;
+    box-shadow: 5px 10px 10px #969696;
+    margin-top: 36%;
+    margin-bottom: 36%;
+}
+ .thirdicon3{
+    background-color: white;
+    height: 220px;
+    margin-top: 36%;
+    margin-bottom: 36%;
+    box-shadow: 5px 10px 10px #969696;
+    
+}
+.roundicon-section .row h3{
+    color: black;
+    margin-top: 5%;
+    justify-content: center;
+}
+
+
+.roundicon-section .row h5{
+    color: #929292;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    justify-content: center;
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 3; 
+   -webkit-box-orient: vertical;
+}
+
+
+.icon{
+    background-color: #55bce7;
+    padding: 6%;
+    margin-top: -40px;
+}
+@media(max-width: 990px)
+{
+    .carousel-caption h3{
+        font-size: 17px;
+    }
+    .carousel-caption h2{
+        font-size: 20px;
+    }
+    
+    
+    .roundicon-section .row .secondicon2{
+        margin-top: 15%;
+        margin-bottom: 15%;
+    }
+    .roundicon-section .row .firsticon1{
+        margin-top: 15%;
+        margin-bottom: 15%;
+    }
+    .roundicon-section .row .thirdicon3{
+        margin-top: 15%;
+        margin-bottom: 15%;
+    }
+
+}
+@media(max-width: 555px)
+{
+   
+    .carousel-caption h3{
+        font-size: 16px;
+    }
+    .carousel-caption h2{
+        font-size: 18px;
+    }
+   
+    .carousel-caption{
+        top: 32%
+    }
+}
+
+.grid-section{
+    background-color: rgb(85, 188, 231);
+}
+.grid-section .row{
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.grid-section .row .display{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.grid-section .row .display .textarea{
+    border: 2px solid #ffffff;
+    height: 286PX;
+    width: 286px;
+    background-color: rgb(85, 188, 231);
+    margin: 0 auto;
+}
+.grid-section .row .display .newtext{
+    border: 2px solid rgb(255, 255, 255);
+    height: 286PX;
+    width: 286px;
+    background-color:#1f232c;
+    margin: 0 auto;
+}
+.grid-section .two{
+    margin-top: -5.5%;
+}
+.grid-section .row .display h2{
+    
+    color: rgb(255, 255, 255);
+    font-weight: 650;
+    padding-top: 20%;
+    padding-left: 8%;
+    padding-right: 8%;
+    justify-content: center;
+}
+.grid-section .row .display h5{
+    color: rgb(255, 255, 255);
+    padding-top: 2%;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: 13px;
+    justify-content: center;
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 6; 
+   -webkit-box-orient: vertical;
+   line-height: 20px;
+}
+.grid-section .row .display .img .image{
+    height: 288px;
+    width: 288px;
+    margin: 0 auto;
+}
+@media(max-width: 1300px)
+{
+    .grid-section .row .display .img .image
+    {
+        height: 258px;
+        width: 258px;
+        
+    }
+    .grid-section .row .display .textarea
+    {
+        height: 256px;
+        width: 256px;
+       
+    } 
+    .grid-section .row .display .newtext
+    {
+        height: 256px;
+        width: 256px;
+       
+    }
+}
+
+.last-section .row  .blogs{
+    height: 200px;
+    width: auto;
+}
+.last-section .row  p{
+    color: gray;
+    padding-top: 2%;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 14px;
+    justify-content: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; 
+    -webkit-box-orient: vertical;
+}
+.last-section{
+    margin-top: 10%;
+    background-color: #f2f2f2;
+}
+.iconimage{
+    height: 22px;
+    width: 22px;
+}
+.gridicon1 h6{
+    margin-top: 5%;
+    text-align: end;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.myfooter{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100px;
+   
+   
+    background-color: rgb(31, 35, 44);
+}
+
+
+.gridicon1{
+    align-items: flex-end;
+    margin-top: 15%;
+    margin-bottom: 10%;
+    box-shadow: 0px 4px 4px rgb(200, 200, 200);
+}
+
+.myfooter h4{
+    margin-top: 3%;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
