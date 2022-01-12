@@ -1,0 +1,11 @@
+G:\3.2 Labs\SD02\Assignment02\Assignment02\bin\Debug\Assignment02.exe.config
+G:\3.2 Labs\SD02\Assignment02\Assignment02\bin\Debug\Assignment02.exe
+G:\3.2 Labs\SD02\Assignment02\Assignment02\bin\Debug\Assignment02.pdb
+G:\3.2 Labs\SD02\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.AssemblyReference.cache
+G:\3.2 Labs\SD02\Assignment02\Assignment02\obj\Debug\Assignment02.Properties.Resources.resources
+G:\3.2 Labs\SD02\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.GenerateResource.cache
+G:\3.2 Labs\SD02\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+G:\3.2 Labs\SD02\Assignment02\Assignment02\obj\Debug\Assignment02.exe
+G:\3.2 Labs\SD02\Assignment02\Assignment02\obj\Debug\Assignment02.pdb
+G:\3.2 Labs\SD02\Assignment02\Assignment02\obj\Debug\Assignment02.Form1.resources
+G:\3.2 Labs\SD02\Assignment02\Assignment02\obj\Debug\Assignment02.Form2.resources
